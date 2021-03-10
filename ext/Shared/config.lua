@@ -128,6 +128,22 @@ local config = {
 	['E6C43491-7637-40BA-A275-B509E1278B73'] = EMPTY_SHADER_CONFIG,
 	-- levels/xp5_001/objects/vegetation/pine_tree_01_crossplane_srgb_Mesh
 	['DB8DDDAA-3405-45E4-8882-A140CC5BCA97'] = EMPTY_SHADER_CONFIG,
+	-- levels/sp_valley/undergrowth/meshes/spvalley_tree_04_Mesh/
+	['BACFD4E1-99FF-E5E1-3855-80C5356259B9'] = EMPTY_SHADER_CONFIG,
+	-- levels/sp_valley/undergrowth/meshes/spvalley_tree_04_Mesh/
+	['41F8658A-FB5B-B7E6-3151-7757769A55B3'] = EMPTY_SHADER_CONFIG,
+	-- levels/sp_valley/undergrowth/meshes/spvalley_tree_01_Mesh/
+	['EAA5C3E5-2998-E5AD-8CE9-17EF123AA75E'] = EMPTY_SHADER_CONFIG,
+	-- levels/sp_valley/undergrowth/meshes/spvalley_tree_01_Mesh/
+	['8C251FAA-1A05-83A6-54C9-0FAFAF310E46'] = EMPTY_SHADER_CONFIG,
+	-- levels/sp_valley/undergrowth/meshes/spvalley_tree_03_Mesh/
+	['02BE8077-3899-9CB6-5E62-949F61EC7D54'] = EMPTY_SHADER_CONFIG,
+	-- levels/sp_valley/undergrowth/meshes/spvalley_tree_03_Mesh/
+	['1F2EADE2-F488-4BCA-723C-301719DE3002'] = EMPTY_SHADER_CONFIG,
+	-- levels/sp_valley/undergrowth/meshes/spvalley_tree_distance_01_Mesh/
+	['EDDD9EA4-DCE3-97D0-1D10-E6A4D0D1602C'] = EMPTY_SHADER_CONFIG,
+	-- levels/sp_valley/undergrowth/meshes/spvalley_tree_distance_01_Mesh/
+	['7A0A3B5E-165C-5DEC-912A-BC1038A83B60'] = EMPTY_SHADER_CONFIG,
 }
 
 return config
