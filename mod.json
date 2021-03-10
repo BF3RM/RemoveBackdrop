@@ -1,5 +1,5 @@
 {
-	"Name": "RemoveBackgroundTrees",
+	"Name": "RemoveBackdrop",
 	"Authors": [ "Janssent", "Powback", "3ti65"],
 	"Description": "Removes the 2D background / billboard trees that always face the camera and other backdrop stuff.",
 	"URL": "",
