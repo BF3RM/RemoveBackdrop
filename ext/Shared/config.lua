@@ -10,6 +10,16 @@ local EMPTY_SHADER_CONFIG = {
 }
 
 local config = {
+	-- levels/mp_017/terrain/mesh_scattering/MP_017_Bush_01_Shader/
+	['757F1245-E08D-4CAA-AF33-BB7071E303A2'] = EMPTY_SHADER_CONFIG,
+	-- levels/mp_017/terrain/mesh_scattering/MP_017_Grass_01_Shader/
+	['A692E205-96D4-47D9-816A-3930E69CCFDD'] = EMPTY_SHADER_CONFIG,
+	-- levels/mp_017/terrain/mesh_scattering/T_MP_017_Grass_01_D/
+	['D00EA638-CB38-43CE-B76A-57688ED295FE'] = EMPTY_SHADER_CONFIG,
+	-- levels/mp_017/terrain/mesh_scattering/mp_017_bush_01_Mesh/
+	['4906DD31-C4C8-4FA8-BBCB-46BC26DF9EF6'] = EMPTY_SHADER_CONFIG,
+	-- levels/mp_017/terrain/mesh_scattering/mp_017_grass_01_Mesh/
+	['6866BB88-D3F1-4885-9FC0-1907D078A58A'] = EMPTY_SHADER_CONFIG,
 	-- levels/mp_017/terrain/mesh_scattering/mp_017_billboardtree_02_mesh/
 	['A8BCB882-A365-4278-B97C-9ECA4B598703'] = EMPTY_SHADER_CONFIG,
 	-- levels/mp_017/terrain/mesh_scattering/mp_017_billboardtree_02_mesh/
