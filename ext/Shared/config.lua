@@ -144,6 +144,8 @@ local config = {
 	['EDDD9EA4-DCE3-97D0-1D10-E6A4D0D1602C'] = EMPTY_SHADER_CONFIG,
 	-- levels/sp_valley/undergrowth/meshes/spvalley_tree_distance_01_Mesh/
 	['7A0A3B5E-165C-5DEC-912A-BC1038A83B60'] = EMPTY_SHADER_CONFIG,
+	-- levels/coop_006/scattermeshes/bushscatter_01_Mesh/
+	['C9DB299D-DF8D-2280-29B5-0C5926A3E1EA'] = EMPTY_SHADER_CONFIG,
 }
 
 return config
