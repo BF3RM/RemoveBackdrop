@@ -144,6 +144,10 @@ local config = {
 	['EDDD9EA4-DCE3-97D0-1D10-E6A4D0D1602C'] = EMPTY_SHADER_CONFIG,
 	-- levels/sp_valley/undergrowth/meshes/spvalley_tree_distance_01_Mesh/
 	['7A0A3B5E-165C-5DEC-912A-BC1038A83B60'] = EMPTY_SHADER_CONFIG,
+	-- levels/xp5_004/xp5_004_terrain/meshscatter/ms_winterpine_01_billboard_xp5_004_Mesh
+	['C959F33A-7B49-434D-86EB-72E562D11F5C'] = EMPTY_SHADER_CONFIG,
+	-- levels/xp5_004/xp5_004_terrain/meshscatter/ms_winterpine_02_billboard_xp5_004_Mesh
+	['D09AE14F-642A-4E5E-8805-8B924A9B7326'] = EMPTY_SHADER_CONFIG,
 }
 
 return config
